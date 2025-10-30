@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 #### 💭Social Media
 ![https://instagram.com/rafaelivanderr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![www.linkedin.com/in/rafael-ivander-vania-hermawan](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+#### 👨‍🎓My Github Stats
+![Rafael's Github Stats](https://github-readme-stats.vercel.app/api?username=RafaelIvander)
