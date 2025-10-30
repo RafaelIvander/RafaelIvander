@@ -1,5 +1,5 @@
 ## Hello👋, i'm Rafael Ivander
-![Header][img/github-header-banner.png]
+![Header](img/github-header-banner.png)
 <!--
 **RafaelIvander/RafaelIvander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
