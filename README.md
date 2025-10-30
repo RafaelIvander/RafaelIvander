@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm Rafael Ivander Vania Hermawan, I'm an Informatics Engineering student at Surabaya State University
+![header](img/github-header-banner.png)
 
 
 ## 🌐 Socials:
